@@ -46,7 +46,20 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\JSON Tests\CSharp\Test_CSharp.cs" />
-     <Compile Include="Assets\loadImage.cs" />
+     <Compile Include="Assets\scripts\IndexNum.cs" />
+     <Compile Include="Assets\scripts\MoveCamera.cs" />
+     <Compile Include="Assets\scripts\OSCHandler.cs" />
+     <Compile Include="Assets\scripts\PlayMovieTextureOnUI.cs" />
+     <Compile Include="Assets\scripts\SimpleSmoothMouseLook.cs" />
+     <Compile Include="Assets\scripts\WebCameraScript.cs" />
+     <Compile Include="Assets\scripts\detectCursor.cs" />
+     <Compile Include="Assets\scripts\loadImage.cs" />
+     <Compile Include="Assets\scripts\oscControl.cs" />
+     <Compile Include="Assets\src\OSC\OSCBundle.cs" />
+     <Compile Include="Assets\src\OSC\OSCClient.cs" />
+     <Compile Include="Assets\src\OSC\OSCMessage.cs" />
+     <Compile Include="Assets\src\OSC\OSCPacket.cs" />
+     <Compile Include="Assets\src\OSC\OSCServer.cs" />
      <None Include="Assets\JSON Tests\TroubleShoot.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

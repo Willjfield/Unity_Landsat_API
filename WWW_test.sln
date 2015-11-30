@@ -5,6 +5,8 @@ Project("{971F6703-AE48-6A61-D0F9-D3C947F468C3}") = "WWW_test", "Assembly-CSharp
 EndProject
 Project("{971F6703-AE48-6A61-D0F9-D3C947F468C3}") = "WWW_test", "Assembly-CSharp.csproj", "{EC567E99-1EBB-3344-DF5F-DE3081B09C1E}"
 EndProject
+Project("{971F6703-AE48-6A61-D0F9-D3C947F468C3}") = "WWW_test", "Assembly-CSharp-Editor.csproj", "{CE1D3E5A-4EEE-1D30-3666-245B390EE6CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{EC567E99-1EBB-3344-DF5F-DE3081B09C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC567E99-1EBB-3344-DF5F-DE3081B09C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC567E99-1EBB-3344-DF5F-DE3081B09C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1D3E5A-4EEE-1D30-3666-245B390EE6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1D3E5A-4EEE-1D30-3666-245B390EE6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1D3E5A-4EEE-1D30-3666-245B390EE6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1D3E5A-4EEE-1D30-3666-245B390EE6CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																			GlobalSection(MonoDevelopProperties) = preSolution
+																														GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
